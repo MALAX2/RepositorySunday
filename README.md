@@ -5,3 +5,4 @@ Este es un cambio hecho desde la Web.
 Este es un cambio para comprobar la carpeta clonada y dar nombre al nuevo integrante del equipo. Le voy a llamar PEDROLAS
 He vuelto a añadidir el correo de PEDROLAS al proyecto (PEDROLAScolaborador@ejemplo.com)
 "Verificando identidad de PedroMJbl"
+HOLA SOY PEDROLAS
